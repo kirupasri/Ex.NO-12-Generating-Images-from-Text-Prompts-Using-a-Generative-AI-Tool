@@ -35,3 +35,5 @@ Thus, text-to-image generative AI was successfully explored by writing, testing,
 ## CONCLUSION
 In conclusion, text-to-image generative AI shows how descriptive language can be directly converted into visual content, and that prompt wording — subject, style, and detail — has a major effect on the result. This makes prompt refinement, not technical skill, the key ability needed to use such tools effectively and responsibly.
 
+<img width="1451" height="1084" alt="image" src="https://github.com/user-attachments/assets/9b1a91e7-81a0-43e8-af3c-b1e9122af495" />
+
